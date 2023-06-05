@@ -87,7 +87,7 @@ p {
 }
 
 
-/* condensed code */
+/* condensed code for the text styles on the right column*/
 
 .benefit-lead,
 .benefit-brand,
@@ -96,7 +96,7 @@ p {
     color:#ffffff;
 }
 
-/* condensed code */
+/* condensed code for the headers of the text in the right column*/
 
 .benefit-brand h3, 
 .benefit-lead h3,
@@ -105,7 +105,7 @@ p {
     text-align: center;
 }
 
-/* condensed code */
+/* condensed code for the images in the right column*/
 
 .benefit-brand img, 
 .benefit-lead img, 
@@ -115,7 +115,7 @@ p {
     max-width: 150px;
 }
 
-/* explanation */
+/* condensed code for the text in the main section of the body */
 
 .search-engine-optimization, 
 .online-reputation-management, 
@@ -128,7 +128,7 @@ p {
     color: #ffffff;
 }
 
-/* explanation */
+/* condensed code for images in the body */
 
 .search-engine-optimization img,
 .online-reputation-management img,
@@ -136,7 +136,7 @@ p {
     max-height: 200px;
 }
 
-/* explanation */
+/* condensed code for the headers in the body */
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
